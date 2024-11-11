@@ -8,6 +8,7 @@
     },
     "record": {
         "CNAME": "hp-l.github.io"
+        "vercel": "hp-l-github-io.vercel.app"
     },
     "proxied": false
 }
